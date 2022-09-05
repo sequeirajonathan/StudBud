@@ -1,2 +1,0 @@
-# StudBud
-Study Application
